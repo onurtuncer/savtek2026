@@ -1,0 +1,718 @@
+bolum_kodu	bolum_adi	panel_id	panel_no	panel_baslik	tablo_no	sutun_0	Kontenjan	Yerle?en	Üniversite Türü	Genel	Okul Birincisi	?ehit ve Gazi Yak?n?	34 Ya? Üstü Kad?n	Depremzede Aday	Toplam Kontenjan	Toplam Yerle?en	Taban Puan	Ortalama Puan	Tavan Puan	Taban Ba?ar? S?ras?	Ortalama Ba?ar? S?ras?	Tavan Ba?ar? S?ras?	Yerle?enlerin ?kamet Ettikleri Bölge	Yerle?en Say?s?	% Oran	Yerle?enlerin ?kamet Ettikleri ?l	Ö?renim Durumu	Tercih S?ras?	Tercih Eden Say?s?	Üniversite	Tercih Say?s?	Kontenjan Ba??na Tercih Say?s?	Program	Tercih Oran?
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	Toplam	6.955	6.479																										
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	Genel	6.666	6.314																										
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	Okul Birincisi	178	75																										
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	?ehit ve Gazi Yak?n?	30	12																										
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	Depremzede Aday	81	78																										
+13987	Makine Muhendisligi	cmeslek_1	1	Kontenjan ve Yerle?en Say?lar?	0	Otuz Dört Ya? Üstü Kad?n	---	---																										
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				Toplam	6.666	178	30	---	81	6.955																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				Devlet	5.054	178	---	---	46	5.278																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				Vak?f	1.475	---	30	---	35	1.54																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				KKTC	100	---	---	---	---	100																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				Yurt D???	16	---	---	---	---	16																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				Uluslararas? Ortak Program	15	---	---	---	---	15																			
+13987	Makine Muhendisligi	cmeslek_2	2	Üniversite Türlerine Göre Kontenjan Say?lar?	0				KKTC Uyruklu	6	---	---	---	---	6																			
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				Toplam	6.314	75	12	---	78		6.479																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				Devlet	5.06	75	---	---	43		5.178																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				Vak?f	1.188	---	12	---	35		1.235																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				KKTC	47	---	---	---	---		47																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				Yurt D???	2	---	---	---	---		2																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				Uluslararas? Ortak Program	15	---	---	---	---		15																		
+13987	Makine Muhendisligi	cmeslek_3	3	Üniversite Türlerine Göre Yerle?en Say?lar?	0				KKTC Uyruklu	2	---	---	---	---		2																		
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				Toplam								"30,327,645"	"39,283,873"	"54,434,276"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				Devlet								"30,383,781"	"39,575,788"	"54,434,276"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				Vak?f								"30,327,645"	"38,119,338"	"54,368,558"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				KKTC								"32,561,058"	"35,924,221"	"45,683,028"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				Yurt D???								"35,986,286"	"33,703,268"	"35,986,286"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				Uluslararas? Ortak Program								"42,671,669"	"43,907,427"	"4,733,026"															
+13987	Makine Muhendisligi	cmeslek_4	4	Yerle?enlerin Puan Analizi	0				KKTC Uyruklu								"52,727,178"	"42,328,102"	"52,727,178"															
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				Toplam											296.977	127.194	259												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				Devlet											295.047	121.994	259												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				Vak?f											296.977	148.029	303												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				KKTC											228.966	179.479	40.039												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				Yurt D???											156.148	208.631	156.148												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				Uluslararas? Ortak Program											68.807	56.845	26.957												
+13987	Makine Muhendisligi	cmeslek_5	5	Yerle?enlerin Ba?ar? S?ras? Analizi	0				KKTC Uyruklu											2.448	124.349	2.448												
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Toplam	6.479	"% 100,0"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Akdeniz	851	"% 13,1"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Do?u Anadolu	149	"% 2,3"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Ege	906	"% 14,0"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Güneydo?u Anadolu	275	"% 4,2"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		?ç Anadolu	1.562	"% 24,1"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Karadeniz	546	"% 8,4"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Marmara	2.186	"% 33,7"									
+13987	Makine Muhendisligi	cmeslek_6	6	Bölgelere Göre Yerle?me ?statistikleri	0																		Di?er	4	"% 0,1"									
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			6.479	"% 100,0"	Toplam								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			205	"% 3,2"	Adana								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			16	"% 0,2"	Ad?yaman								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			43	"% 0,7"	Afyonkarahisar								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			4	"% 0,1"	A?r?								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			38	"% 0,6"	Aksaray								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			18	"% 0,3"	Amasya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			942	"% 14,5"	Ankara								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			207	"% 3,2"	Antalya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			5	"% 0,1"	Ardahan								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			10	"% 0,2"	Artvin								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			88	"% 1,4"	Ayd?n								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			98	"% 1,5"	Bal?kesir								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			5	"% 0,1"	Bart?n								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			11	"% 0,2"	Batman								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			2	"% 0,0"	Bayburt								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			15	"% 0,2"	Bilecik								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			7	"% 0,1"	Bingöl								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			4	"% 0,1"	Bitlis								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			27	"% 0,4"	Bolu								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			9	"% 0,1"	Burdur								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			359	"% 5,5"	Bursa								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			37	"% 0,6"	Çanakkale								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			8	"% 0,1"	Çank?r?								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			47	"% 0,7"	Çorum								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			98	"% 1,5"	Denizli								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			43	"% 0,7"	Diyarbak?r								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			28	"% 0,4"	Düzce								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			20	"% 0,3"	Edirne								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			16	"% 0,2"	Elaz??								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			19	"% 0,3"	Erzincan								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			21	"% 0,3"	Erzurum								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			99	"% 1,5"	Eski?ehir								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			141	"% 2,2"	Gaziantep								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			26	"% 0,4"	Giresun								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			4	"% 0,1"	Gümü?hane								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			1	"% 0,0"	Hakkari								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			114	"% 1,8"	Hatay								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			2	"% 0,0"	I?d?r								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			26	"% 0,4"	Isparta								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			1.199	"% 18,5"	?stanbul								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			436	"% 6,7"	?zmir								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			62	"% 1,0"	Kahramanmara?								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			18	"% 0,3"	Karabük								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			15	"% 0,2"	Karaman								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			7	"% 0,1"	Kars								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			28	"% 0,4"	Kastamonu								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			107	"% 1,7"	Kayseri								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			36	"% 0,6"	K?r?kkale								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			22	"% 0,3"	K?rklareli								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			17	"% 0,3"	K?r?ehir								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			5	"% 0,1"	Kilis								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			228	"% 3,5"	Kocaeli								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			207	"% 3,2"	Konya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			35	"% 0,5"	Kütahya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			40	"% 0,6"	Malatya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			110	"% 1,7"	Manisa								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			17	"% 0,3"	Mardin								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			192	"% 3,0"	Mersin								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			70	"% 1,1"	Mu?la								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			5	"% 0,1"	Mu?								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			16	"% 0,2"	Nev?ehir								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			17	"% 0,3"	Ni?de								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			49	"% 0,8"	Ordu								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			36	"% 0,6"	Osmaniye								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			20	"% 0,3"	Rize								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			92	"% 1,4"	Sakarya								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			97	"% 1,5"	Samsun								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			4	"% 0,1"	Siirt								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			11	"% 0,2"	Sinop								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			44	"% 0,7"	Sivas								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			31	"% 0,5"	?anl?urfa								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			7	"% 0,1"	??rnak								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			98	"% 1,5"	Tekirda?								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			34	"% 0,5"	Tokat								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			73	"% 1,1"	Trabzon								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			5	"% 0,1"	Tunceli								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			26	"% 0,4"	U?ak								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			13	"% 0,2"	Van								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			18	"% 0,3"	Yalova								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			16	"% 0,2"	Yozgat								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			49	"% 0,8"	Zonguldak								
+13987	Makine Muhendisligi	cmeslek_7	7	?llere Göre Yerle?me ?statistikleri	0																			4	"% 0,1"	Di?er								
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			6.479	"% 100,0"		Toplam							
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			2.622	"% 40,5"		"Liseden yeni mezun, YKS ye ilk defa girdi"							
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			3.716	"% 57,4"		"Liseden mezun, daha önce hiç üniversiteye yerle?memi?ti"							
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			97	"% 1,5"		Üniversitede ö?renci iken s?nava girip buraya yerle?ti							
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			19	"% 0,3"		Bir üniversiteden daha önce mezun olmu?							
+13987	Makine Muhendisligi	cmeslek_8	8	Yerle?enlerin Ö?renim Durumlar?na Göre Say?lar?	0																			25	"% 0,4"		Di?er							
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			6.479				Ortalama Tercih S?ras?	"21,9"					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			502				1	6.999					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			502				2	7.817					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			540				3	8.422					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			473				4	8.509					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			455				5	8.423					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			406				6	8.363					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			409				7	8.222					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			382				8	7.975					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			352				9	7.598					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			298				10	7.288					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			259				11	7.022					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			252				12	6.555					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			247				13	6.018					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			184				14	5.639					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			183				15	5.395					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			171				16	4.904					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			164				17	4.591					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			141				18	4.231					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			121				19	3.905					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			124				20	3.464					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			106				21	3.076					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			93				22	2.843					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			66				23	2.382					
+13987	Makine Muhendisligi	cmeslek_9	9	Tercih Say?s?na Göre Tercih Eden ve Yerle?en Say?lar?	0																			49				24	1.989					
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		6.955																							Toplam	141.63	"20,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							ABDULLAH GÜL ÜN?VERS?TES?	1.126	"21,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		57																							ADANA ALPARSLAN TÜRKE? B?L?M VE TEKNOLOJ? ÜN?VERS?TES?	940	"16,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							AFYON KOCATEPE ÜN?VERS?TES?	1.418	"27,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							AKDEN?Z ÜN?VERS?TES?	2.291	"37,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							AKSARAY ÜN?VERS?TES?	323	"12,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							ALANYA ALAADD?N KEYKUBAT ÜN?VERS?TES?	1.394	"26,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							ALTINBA? ÜN?VERS?TES?	144	"9,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							AMASYA ÜN?VERS?TES?	355	"13,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		72																							ANKARA YILDIRIM BEYAZIT ÜN?VERS?TES?	1.95	"27,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		27																							ANTALYA B?L?M ÜN?VERS?TES?	157	"5,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							ATATÜRK ÜN?VERS?TES?	1.041	"16,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		50																							ATILIM ÜN?VERS?TES?	591	"11,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							AYDIN ADNAN MENDERES ÜN?VERS?TES?	1.524	"24,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		72																							BALIKES?R ÜN?VERS?TES?	2.644	"36,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							BARTIN ÜN?VERS?TES?	810	"31,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		96																							BA?KENT ÜN?VERS?TES?	1.34	"14,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							BATMAN ÜN?VERS?TES?	31	"2,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							B?LEC?K ?EYH EDEBAL? ÜN?VERS?TES?	908	"34,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							B?NGÖL ÜN?VERS?TES?	12	"1,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							B?TL?S EREN ÜN?VERS?TES?	17	"0,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		67																							BO?AZ?Ç? ÜN?VERS?TES?	1.454	"21,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							BOLU ABANT ?ZZET BAYSAL ÜN?VERS?TES?	1.725	"33,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							BURDUR MEHMET AK?F ERSOY ÜN?VERS?TES?	788	"30,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							BURSA TEKN?K ÜN?VERS?TES?	2.531	"40,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		93																							BURSA ULUDA? ÜN?VERS?TES?	2.471	"26,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		66																							ÇANKAYA ÜN?VERS?TES?	637	"9,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							ÇANKIRI KARATEK?N ÜN?VERS?TES?	242	"11,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		122																							ÇUKUROVA ÜN?VERS?TES?	2.219	"18,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		29																							D?CLE ÜN?VERS?TES?	329	"11,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		27																							DO?U AKDEN?Z ÜN?VERS?TES?	122	"4,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		40																							DO?U? ÜN?VERS?TES?	428	"10,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		82																							DOKUZ EYLÜL ÜN?VERS?TES?	2.251	"27,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							DÜZCE ÜN?VERS?TES?	1.982	"32,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		72																							EGE ÜN?VERS?TES?	2.203	"30,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		124																							ERC?YES ÜN?VERS?TES?	3.621	"29,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							ERZ?NCAN B?NAL? YILDIRIM ÜN?VERS?TES?	41	"3,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							ERZURUM TEKN?K ÜN?VERS?TES?	573	"22,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		94																							ESK??EH?R OSMANGAZ? ÜN?VERS?TES?	2.555	"27,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		36																							ESK??EH?R TEKN?K ÜN?VERS?TES?	2.317	"64,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		63																							FIRAT ÜN?VERS?TES?	807	"12,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		147																							GAZ? ÜN?VERS?TES?	4.373	"29,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		113																							GAZ?ANTEP ÜN?VERS?TES?	1.155	"10,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							GEBZE TEKN?K ÜN?VERS?TES?	2.349	"37,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							G?RESUN ÜN?VERS?TES?	516	"24,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		10																							G?RNE ÜN?VERS?TES?	10	"1,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							GÜMÜ?HANE ÜN?VERS?TES?	49	"4,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		77																							HACETTEPE ÜN?VERS?TES?	1.688	"21,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		42																							HAL?Ç ÜN?VERS?TES?	278	"6,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		12																							HARRAN ÜN?VERS?TES?	55	"4,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							HASAN KALYONCU ÜN?VERS?TES?	171	"10,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							H?T?T ÜN?VERS?TES?	233	"11,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		41																							ISPARTA UYGULAMALI B?L?MLER ÜN?VERS?TES?	1.143	"27,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		27																							I?IK ÜN?VERS?TES?	157	"5,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		101																							?HSAN DO?RAMACI B?LKENT ÜN?VERS?TES?	1.372	"13,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		23																							?NÖNÜ ÜN?VERS?TES?	290	"12,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		29																							?SKENDERUN TEKN?K ÜN?VERS?TES?	305	"10,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							?STANBUL AREL ÜN?VERS?TES?	145	"9,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		96																							?STANBUL AYDIN ÜN?VERS?TES?	597	"6,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		37																							?STANBUL BEYKENT ÜN?VERS?TES?	198	"5,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		76																							?STANBUL B?LG? ÜN?VERS?TES?	445	"5,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							?STANBUL GED?K ÜN?VERS?TES?	191	"7,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							?STANBUL N??ANTA?I ÜN?VERS?TES?	227	"14,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		27																							?STANBUL OKAN ÜN?VERS?TES?	256	"9,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							?STANBUL SA?LIK VE TEKNOLOJ? ÜN?VERS?TES?	1.024	"16,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		169																							?STANBUL TEKN?K ÜN?VERS?TES?	2.976	"17,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							?STANBUL ÜN?VERS?TES?-CERRAHPA?A	1.817	"29,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							?ST?NYE ÜN?VERS?TES?	276	"13,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							?ZM?R DEMOKRAS? ÜN?VERS?TES?	1.041	"20,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		48																							?ZM?R EKONOM? ÜN?VERS?TES?	567	"11,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							?ZM?R KAT?P ÇELEB? ÜN?VERS?TES?	1.657	"26,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		57																							?ZM?R YÜKSEK TEKNOLOJ? ENST?TÜSÜ	1.182	"20,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							KAFKAS ÜN?VERS?TES?	15	"0,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		34																							KAHRAMANMARA? ?ST?KLAL ÜN?VERS?TES?	42	"1,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		12																							KAHRAMANMARA? SÜTÇÜ ?MAM ÜN?VERS?TES?	146	"12,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		144																							KARABÜK ÜN?VERS?TES?	1.397	"9,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		82																							KARADEN?Z TEKN?K ÜN?VERS?TES?	2.057	"25,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							KARAMANO?LU MEHMETBEY ÜN?VERS?TES?	126	"11,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							KASTAMONU ÜN?VERS?TES?	639	"30,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							KIRIKKALE ÜN?VERS?TES?	1.207	"19,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		31																							KIRKLAREL? ÜN?VERS?TES?	924	"29,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							KIR?EH?R AH? EVRAN ÜN?VERS?TES?	174	"15,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		103																							KOCAEL? ÜN?VERS?TES?	2.903	"28,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		66																							KOÇ ÜN?VERS?TES?	1.004	"15,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		93																							KONYA TEKN?K ÜN?VERS?TES?	2.039	"21,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		37																							KTO KARATAY ÜN?VERS?TES?	150	"4,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		108																							KÜTAHYA DUMLUPINAR ÜN?VERS?TES?	2.259	"20,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		134																							MAN?SA CELÂL BAYAR ÜN?VERS?TES?	3.493	"26,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		117																							MARMARA ÜN?VERS?TES?	3.561	"30,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		37																							MEF ÜN?VERS?TES?	355	"9,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							MERS?N ÜN?VERS?TES?	1.634	"26,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							MUNZUR ÜN?VERS?TES?	14	"1,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							MU? ALPARSLAN ÜN?VERS?TES?	9	"0,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		88																							NECMETT?N ERBAKAN ÜN?VERS?TES?	2.513	"28,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		26																							N??DE ÖMER HAL?SDEM?R ÜN?VERS?TES?	654	"25,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							ONDOKUZ MAYIS ÜN?VERS?TES?	2.007	"32,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		172																							ORTA DO?U TEKN?K ÜN?VERS?TES?	3.07	"17,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		12																							OSMAN?YE KORKUT ATA ÜN?VERS?TES?	77	"6,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		72																							OST?M TEKN?K ÜN?VERS?TES?	582	"8,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		71																							ÖZYE??N ÜN?VERS?TES?	874	"12,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		124																							PAMUKKALE ÜN?VERS?TES?	3.049	"24,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		44																							P?R? RE?S ÜN?VERS?TES?	463	"10,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		21																							RECEP TAYY?P ERDO?AN ÜN?VERS?TES?	172	"8,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		65																							SAKARYA UYGULAMALI B?L?MLER ÜN?VERS?TES?	1.485	"22,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		108																							SAKARYA ÜN?VERS?TES?	2.79	"25,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		57																							SAMSUN ÜN?VERS?TES?	1.44	"25,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		117																							SELÇUK ÜN?VERS?TES?	3.142	"26,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							S??RT ÜN?VERS?TES?	10	"0,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		31																							S?NOP ÜN?VERS?TES?	622	"20,1"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		31																							S?VAS B?L?M VE TEKNOLOJ? ÜN?VERS?TES?	429	"13,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		31																							S?VAS CUMHUR?YET ÜN?VERS?TES?	725	"23,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		82																							SÜLEYMAN DEM?REL ÜN?VERS?TES?	2.032	"24,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		31																							TARSUS ÜN?VERS?TES?	768	"24,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		46																							TED ÜN?VERS?TES?	1.021	"22,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							TEK?RDA? NAMIK KEMAL ÜN?VERS?TES?	1.436	"27,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		81																							TOBB EKONOM? VE TEKNOLOJ? ÜN?VERS?TES?	954	"11,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							TOKAT GAZ?OSMANPA?A ÜN?VERS?TES?	148	"9,3"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		93																							TRAKYA ÜN?VERS?TES?	1.474	"15,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		29																							TÜRK HAVA KURUMU ÜN?VERS?TES?	452	"15,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		62																							TÜRK-ALMAN ÜN?VERS?TES?	1.069	"17,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		5																							ULUSLARARASI KIBRIS ÜN?VERS?TES?	10	"2,0"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		16																							ULUSLARARASI SARAYBOSNA ÜN?VERS?TES?	13	"0,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		41																							U?AK ÜN?VERS?TES?	1.126	"27,5"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							VAN YÜZÜNCÜ YIL ÜN?VERS?TES?	85	"7,7"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		10																							YAKIN DO?U ÜN?VERS?TES?	78	"7,8"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							YALOVA ÜN?VERS?TES?	1.816	"34,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		54																							YA?AR ÜN?VERS?TES?	535	"9,9"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		97																							YED?TEPE ÜN?VERS?TES?	891	"9,2"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		129																							YILDIZ TEKN?K ÜN?VERS?TES?	3.018	"23,4"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		11																							YOZGAT BOZOK ÜN?VERS?TES?	73	"6,6"		
+13987	Makine Muhendisligi	cmeslek_10	10	Üniversitelere Göre Tercih Edilme ?statistikleri	0		52																							ZONGULDAK BÜLENT ECEV?T ÜN?VERS?TES?	1.324	"25,5"		
+13987	Makine Muhendisligi	cmeslek_11	11	Üniversite Türlerine Göre Tercih Edilme ?statistikleri	0		6.955		Toplam																						141.63	"20,4"		
+13987	Makine Muhendisligi	cmeslek_11	11	Üniversite Türlerine Göre Tercih Edilme ?statistikleri	0		5.347		Devlet																						124.915	"23,4"		
+13987	Makine Muhendisligi	cmeslek_11	11	Üniversite Türlerine Göre Tercih Edilme ?statistikleri	0		1.54		Vak?f																						16.482	"10,7"		
+13987	Makine Muhendisligi	cmeslek_11	11	Üniversite Türlerine Göre Tercih Edilme ?statistikleri	0		52		KKTC																						220	"4,2"		
+13987	Makine Muhendisligi	cmeslek_11	11	Üniversite Türlerine Göre Tercih Edilme ?statistikleri	0		16		Yurt D???																						13	"0,8"		
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										90.618		Toplam	100%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		AC?L YARDIM VE AFET YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		AC?L YARDIM VE AFET YÖNET?M? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		ADL? B?L?MLER	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										6		ADL? B?L???M MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		ADL? B?L???M MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										23		AKTÜERYA B?L?MLER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		AMER?KAN KÜLTÜRÜ VE EDEB?YATI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										9		ASTRONOM? VE UZAY B?L?MLER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		BAHÇE B?TK?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		BANKACILIK	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		BEDEN E??T?M? VE SPOR Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										43		BESLENME VE D?YETET?K	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										28		B?LG? GÜVENL??? TEKNOLOJ?S?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										12		B?LG?SAYAR B?L?MLER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		B?LG?SAYAR B?L?MLER? VE MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										4.214		B?LG?SAYAR MÜHEND?SL???	4.70%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										67		B?LG?SAYAR MÜHEND?SL??? (M.T.O.K)	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										28		B?LG?SAYAR VE Ö?RET?M TEKNOLOJ?LER? Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										51		B?L???M S?STEMLER? MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		B?L???M S?STEMLER? MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										38		B?L???M S?STEMLER? VE TEKNOLOJ?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		B?L???M S?STEMLER? VE TEKNOLOJ?LER? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										18		B?TK? KORUMA	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		B?YOK?MYA	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										17		B?YOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		B?YOLOJ? Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										183		B?YOMED?KAL MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		B?YOMED?KAL MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										83		B?YOMÜHEND?SL?K	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		B?YOTEKNOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										9		CEVHER HAZIRLAMA MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		ÇALI?MA EKONOM?S? VE ENDÜSTR? ?L??K?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		ÇEV?R?B?L?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										179		ÇEVRE MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		ÇOCUK GEL???M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										328		DEN?Z ULA?TIRMA ??LETME MÜHEND?SL???	0.40%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		DEN?Z ULA?TIRMA ??LETME MÜHEND?SL??? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		DEN?ZC?L?K ??LETMELER? YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		DER? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										37		D?J?TAL OYUN TASARIMI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										70		D?L VE KONU?MA TERAP?S?	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		D?L VE KONU?MA TERAP?S? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		D?LB?L?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.507		D?? HEK?ML???	1.70%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										263		EBEL?K	0.30%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		EBEL?K (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										612		ECZACILIK	0.70%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		EKONOMETR?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										26		EKONOM?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		EKONOM? VE F?NANS	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										541		ELEKTR?K MÜHEND?SL???	0.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										15.341		ELEKTR?K-ELEKTRON?K MÜHEND?SL???	16.90%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										102		ELEKTR?K-ELEKTRON?K MÜHEND?SL??? (M.T.O.K)	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										111		ELEKTRON?K MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										515		ELEKTRON?K VE HABERLE?ME MÜHEND?SL???	0.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										4.267		ENDÜSTR? MÜHEND?SL???	4.70%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										124		ENDÜSTR?YEL TASARIM	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										9		ENDÜSTR?YEL TASARIM (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										26		ENDÜSTR?YEL TASARIM MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										10		ENDÜSTR?YEL TASARIM MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										20		ENERJ? B?L?M? VE TEKNOLOJ?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										337		ENERJ? S?STEMLER? MÜHEND?SL???	0.40%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										18		ENERJ? S?STEMLER? MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										6		ERGOTERAP?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										24		FEN B?LG?S? Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										182		F?Z?K	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										144		F?Z?K MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										12		F?Z?K Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										148		F?ZYOTERAP? VE REHAB?L?TASYON	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		F?ZYOTERAP? VE REHAB?L?TASYON (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										17		FOTON?K	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		FRANSIZ D?L? VE EDEB?YATI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										582		GEM? ?N?AATI VE GEM? MAK?NELER? MÜHEND?SL???	0.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										208		GEM? MAK?NELER? ??LETME MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										56		GEM? VE DEN?Z TEKNOLOJ?S? MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		GEM? VE YAT TASARIMI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										17		GENET?K VE B?YOMÜHEND?SL?K	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		GERONTOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										167		GIDA MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										144		HAR?TA MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		HASSAS TARIM VE TARIMSAL ROBOTLAR	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										243		HAVACILIK ELEKTR?K VE ELEKTRON???	0.30%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										32		HAVACILIK ELEKTR?K VE ELEKTRON??? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.011		HAVACILIK VE UZAY MÜHEND?SL???	1.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										14		HAVACILIK YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		HAVACILIK YÖNET?M? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.699		HEM??REL?K	1.90%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										142		HEM??REL?K (YÜKSEKOKUL)	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										8		H?DROJEOLOJ? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										85		HUKUK	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										45		?Ç M?MARLIK	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		?Ç M?MARLIK VE ÇEVRE TASARIMI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										25		?KL?M B?L?M? VE METEOROLOJ? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										27		?KT?SAT	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		?KT?SAT (AÇIKÖ?RET?M)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		?LAH?YAT	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										97		?LKÖ?RET?M MATEMAT?K Ö?RETMENL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										50		?MALAT MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		?NG?L?Z D?LB?L?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										6		?NG?L?Z D?L? VE EDEB?YATI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										10		?NG?L?ZCE MÜTERC?M VE TERCÜMANLIK	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										13		?NG?L?ZCE Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		"?NG?L?ZCE, FRANSIZCA MÜTERC?M VE TERCÜMANLIK"	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2.258		?N?AAT MÜHEND?SL???	2.50%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										7		?N?AAT MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		?SLAM ?KT?SADI VE F?NANS	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										191		?STAT?ST?K	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		?? SA?LI?I VE GÜVENL??? (AÇIKÖ?RET?M)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										96		??LETME	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		??LETME (AÇIKÖ?RET?M)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										55		??LETME MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										26		JEOF?Z?K MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										52		JEOLOJ? MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		KAMU YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		KENTSEL TASARIM VE PEYZAJ M?MARLI?I	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										200		K?MYA	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.116		K?MYA MÜHEND?SL???	1.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										15		K?MYA Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										14		K?MYA-B?YOLOJ? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										699		KONTROL VE OTOMASYON MÜHEND?SL???	0.80%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										7		LOJ?ST?K YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										127		MADEN MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										38.205		MAK?NE MÜHEND?SL???	42.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										194		MAK?NE MÜHEND?SL??? (M.T.O.K)	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										8		MAL?YE	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										138		MALZEME B?L?M? VE MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										68		MALZEME B?L?M? VE NANOTEKNOLOJ? MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										20		MALZEME B?L?M? VE TEKNOLOJ?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										334		MATEMAT?K	0.40%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										213		MATEMAT?K MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										43		MATEMAT?K Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										14		MATEMAT?K VE B?LG?SAYAR B?L?MLER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.88		MEKATRON?K MÜHEND?SL???	2.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										56		MEKATRON?K MÜHEND?SL??? (M.T.O.K)	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.619		METALURJ? VE MALZEME MÜHEND?SL???	1.80%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										33		METALURJ? VE MALZEME MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										503		M?MARLIK	0.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										102		MOLEKÜLER B?YOLOJ? VE GENET?K	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										11		MOLEKÜLER B?YOTEKNOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		MUHASEBE VE F?NANS YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										131		MÜHEND?SL?K VE DO?A B?L?MLER? PROGRAMLARI	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		NANOTEKNOLOJ? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										40		NÜKLEER ENERJ? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										30		ODYOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		ODYOLOJ? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		OPT?K VE AKUST?K MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										4		ORMAN ENDÜSTR?S? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										33		ORMAN MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										4		ORTEZ VE PROTEZ	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										510		OTOMOT?V MÜHEND?SL???	0.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										40		OTOMOT?V MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										120		PETROL VE DO?ALGAZ MÜHEND?SL???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										18		PEYZAJ M?MARLI?I	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										45		P?LOTAJ	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										25		P?LOTAJ (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										18		POL?MER MALZEME MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										10		PS?KOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		"RADYO, TELEV?ZYON VE S?NEMA"	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		RAYLI S?STEMLER MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										3		REHBERL?K VE PS?KOLOJ?K DANI?MANLIK	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		SA?LIK YÖNET?M? (AÇIKÖ?RET?M)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										21		SANAT VE SOSYAL B?L?MLER PROGRAMLARI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										14		SINIF Ö?RETMENL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										157		S?BER GÜVENL?K MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		S?BER GÜVENL?K MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		S?GORTACILIK	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		S?YASET B?L?M? VE KAMU YÖNET?M?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		S?YASET B?L?M? VE ULUSLARARASI ?L??K?LER	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										2		SU B?L?MLER? VE MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		SU ÜRÜNLER? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										48		?EH?R VE BÖLGE PLANLAMA	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										11		TARIM MAK?NELER? VE TEKNOLOJ?LER? MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		TARIMSAL B?YOTEKNOLOJ?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		TAR?H ÖNCES? ARKEOLOJ?S?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										6		TARLA B?TK?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										16		TEKST?L MÜHEND?SL???	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.663		TIP	1.80%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										142		UÇAK BAKIM VE ONARIM	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										34		UÇAK BAKIM VE ONARIM (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		UÇAK ELEKTR?K VE ELEKTRON??? (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										263		UÇAK GÖVDE VE MOTOR BAKIMI	0.30%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										84		UÇAK GÖVDE VE MOTOR BAKIMI (YÜKSEKOKUL)	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.127		UÇAK MÜHEND?SL???	1.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		ULUSLARARASI F?NANS	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										16		ULUSLARARASI ?L??K?LER	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		ULUSLARARASI T?CARET	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										9		ULUSLARARASI T?CARET VE F?NANSMAN	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										10		ULUSLARARASI T?CARET VE ??LETMEC?L?K	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										4		ULUSLARARASI T?CARET VE LOJ?ST?K	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										6		UZAY B?L?MLER? VE TEKNOLOJ?LER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										186		UZAY MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										114		VER? B?L?M? VE ANAL?T???	0.10%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										598		VETER?NER	0.70%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										193		YAPAY ZEKA MÜHEND?SL???	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										174		YAPAY ZEKA VE MAK?NE Ö?RENMES?	0.20%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										257		YAPAY ZEKA VE VER? MÜHEND?SL???	0.30%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										31		YAZILIM GEL??T?RME	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										5		YAZILIM GEL??T?RME (YÜKSEKOKUL)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1.445		YAZILIM MÜHEND?SL???	1.60%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										13		YAZILIM MÜHEND?SL??? (M.T.O.K)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										20		YÖNET?M B?L?MLER? PROGRAMLARI	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										14		YÖNET?M B?L???M S?STEMLER?	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		YÖNET?M B?L???M S?STEMLER? (AÇIKÖ?RET?M)	0.00%
+13987	Makine Muhendisligi	cmeslek_13	13	Yerle?enlerin Tercih E?ilimleri - Programlar	0																										1		ZOOTEKN?	0.00%
+13987	Makine Muhendisligi	cmeslek_14	14	Yerle?enlerin Tercih E?ilimleri - Üniversite Türleri	0				Toplam																						90.618			
+13987	Makine Muhendisligi	cmeslek_14	14	Yerle?enlerin Tercih E?ilimleri - Üniversite Türleri	0				Devlet																						78.176			
+13987	Makine Muhendisligi	cmeslek_14	14	Yerle?enlerin Tercih E?ilimleri - Üniversite Türleri	0				Vak?f																						12.218			
+13987	Makine Muhendisligi	cmeslek_14	14	Yerle?enlerin Tercih E?ilimleri - Üniversite Türleri	0				KKTC																						207			
+13987	Makine Muhendisligi	cmeslek_14	14	Yerle?enlerin Tercih E?ilimleri - Üniversite Türleri	0				Yurt D???																						17			
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									Toplam	90.618			100%
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ABDULLAH GÜL ÜN?VERS?TES?	571			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ACIBADEM MEHMET AL? AYDINLAR ÜN?VERS?TES?	29			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ADA KENT ÜN?VERS?TES?	2			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ADANA ALPARSLAN TÜRKE? B?L?M VE TEKNOLOJ? ÜN?VERS?TES?	642			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ADIYAMAN ÜN?VERS?TES?	115			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AFYON KOCATEPE ÜN?VERS?TES?	637			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AFYONKARAH?SAR SA?LIK B?L?MLER? ÜN?VERS?TES?	65			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									A?RI ?BRAH?M ÇEÇEN ÜN?VERS?TES?	47			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AKDEN?Z ÜN?VERS?TES?	1.182			"% 1,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AKSARAY ÜN?VERS?TES?	208			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ALANYA ALAADD?N KEYKUBAT ÜN?VERS?TES?	651			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ALANYA ÜN?VERS?TES?	10			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ALTINBA? ÜN?VERS?TES?	113			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AMASYA ÜN?VERS?TES?	209			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANADOLU ÜN?VERS?TES?	54			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA B?L?M ÜN?VERS?TES?	35			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA HACI BAYRAM VEL? ÜN?VERS?TES?	8			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA MED?POL ÜN?VERS?TES?	86			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA SOSYAL B?L?MLER ÜN?VERS?TES?	1			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA ÜN?VERS?TES?	757			"% 0,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANKARA YILDIRIM BEYAZIT ÜN?VERS?TES?	1.21			"% 1,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANTALYA BELEK ÜN?VERS?TES?	1			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ANTALYA B?L?M ÜN?VERS?TES?	96			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ARDAHAN ÜN?VERS?TES?	30			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ARTV?N ÇORUH ÜN?VERS?TES?	25			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ATATÜRK ÜN?VERS?TES?	620			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ATILIM ÜN?VERS?TES?	458			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AVRASYA ÜN?VERS?TES?	2			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									AYDIN ADNAN MENDERES ÜN?VERS?TES?	856			"% 0,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BAHÇE?EH?R ÜN?VERS?TES?	179			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BALIKES?R ÜN?VERS?TES?	1.372			"% 1,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BANDIRMA ONYED? EYLÜL ÜN?VERS?TES?	524			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BARTIN ÜN?VERS?TES?	348			"% 0,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BA?KENT ÜN?VERS?TES?	866			"% 1,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BATMAN ÜN?VERS?TES?	13			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BAYBURT ÜN?VERS?TES?	16			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BEYKOZ ÜN?VERS?TES?	11			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BEZM-? ÂLEM VAKIF ÜN?VERS?TES?	7			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									B?LEC?K ?EYH EDEBAL? ÜN?VERS?TES?	467			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									B?NGÖL ÜN?VERS?TES?	49			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									B?RUN? ÜN?VERS?TES?	43			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									B?TL?S EREN ÜN?VERS?TES?	11			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BO?AZ?Ç? ÜN?VERS?TES?	636			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BOLU ABANT ?ZZET BAYSAL ÜN?VERS?TES?	1.145			"% 1,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BURDUR MEHMET AK?F ERSOY ÜN?VERS?TES?	397			"% 0,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BURSA TEKN?K ÜN?VERS?TES?	1.684			"% 1,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									BURSA ULUDA? ÜN?VERS?TES?	1.497			"% 1,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÇANAKKALE ONSEK?Z MART ÜN?VERS?TES?	593			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÇANKAYA ÜN?VERS?TES?	437			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÇANKIRI KARATEK?N ÜN?VERS?TES?	201			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÇUKUROVA ÜN?VERS?TES?	1.144			"% 1,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									DEM?RO?LU B?L?M ÜN?VERS?TES?	3			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									D?CLE ÜN?VERS?TES?	171			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									DO?U AKDEN?Z ÜN?VERS?TES?	87			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									DO?U? ÜN?VERS?TES?	245			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									DOKUZ EYLÜL ÜN?VERS?TES?	1.401			"% 1,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									DÜZCE ÜN?VERS?TES?	1.127			"% 1,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									EGE ÜN?VERS?TES?	1.161			"% 1,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ERC?YES ÜN?VERS?TES?	2.111			"% 2,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ERZ?NCAN B?NAL? YILDIRIM ÜN?VERS?TES?	99			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ERZURUM TEKN?K ÜN?VERS?TES?	281			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ESK??EH?R OSMANGAZ? ÜN?VERS?TES?	1.858			"% 2,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ESK??EH?R TEKN?K ÜN?VERS?TES?	1.842			"% 2,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									FAT?H SULTAN MEHMET VAKIF ÜN?VERS?TES?	34			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									FENERBAHÇE ÜN?VERS?TES?	30			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									FIRAT ÜN?VERS?TES?	483			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GALATASARAY ÜN?VERS?TES?	31			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GAZ? ÜN?VERS?TES?	2.948			"% 3,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GAZ?ANTEP ?SLAM B?L?M VE TEKNOLOJ? ÜN?VERS?TES?	81			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GAZ?ANTEP ÜN?VERS?TES?	710			"% 0,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GEBZE TEKN?K ÜN?VERS?TES?	1.296			"% 1,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									G?RESUN ÜN?VERS?TES?	285			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									G?RNE AMER?KAN ÜN?VERS?TES?	10			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									G?RNE ÜN?VERS?TES?	23			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									GÜMÜ?HANE ÜN?VERS?TES?	56			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HACETTEPE ÜN?VERS?TES?	1.286			"% 1,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HAKKAR? ÜN?VERS?TES?	10			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HAL?Ç ÜN?VERS?TES?	162			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HARRAN ÜN?VERS?TES?	108			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HASAN KALYONCU ÜN?VERS?TES?	101			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HATAY MUSTAFA KEMAL ÜN?VERS?TES?	72			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									H?T?T ÜN?VERS?TES?	159			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									HOCA AHMET YESEV? ULUSLARARASI TÜRK-KAZAK ÜN?VERS?TES?	2			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									I?DIR ÜN?VERS?TES?	30			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ISPARTA UYGULAMALI B?L?MLER ÜN?VERS?TES?	434			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									I?IK ÜN?VERS?TES?	99			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?Ç??LER? BAKANLI?I VE M?LL? SAVUNMA BAKANLI?I ADINA SA?LIK B?L?MLER? ÜN?VERS?TES?NDE E??T?M ALACAKLAR	6			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?HSAN DO?RAMACI B?LKENT ÜN?VERS?TES?	707			"% 0,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?NÖNÜ ÜN?VERS?TES?	251			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?SKENDERUN TEKN?K ÜN?VERS?TES?	287			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL 29 MAYIS ÜN?VERS?TES?	21			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL AREL ÜN?VERS?TES?	159			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL ATLAS ÜN?VERS?TES?	113			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL AYDIN ÜN?VERS?TES?	382			"% 0,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL BEYKENT ÜN?VERS?TES?	167			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL B?LG? ÜN?VERS?TES?	248			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL ESENYURT ÜN?VERS?TES?	9			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL GALATA ÜN?VERS?TES?	12			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL GED?K ÜN?VERS?TES?	74			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL GEL???M ÜN?VERS?TES?	129			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL KENT ÜN?VERS?TES?	44			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL KÜLTÜR ÜN?VERS?TES?	51			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL MEDEN?YET ÜN?VERS?TES?	233			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL MED?POL ÜN?VERS?TES?	105			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL N??ANTA?I ÜN?VERS?TES?	172			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL OKAN ÜN?VERS?TES?	247			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL RUMEL? ÜN?VERS?TES?	14			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL SABAHATT?N ZA?M ÜN?VERS?TES?	38			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL SA?LIK VE TEKNOLOJ? ÜN?VERS?TES?	606			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL TEKN?K ÜN?VERS?TES?	3.182			"% 3,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL T?CARET ÜN?VERS?TES?	78			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL TOPKAPI ÜN?VERS?TES?	85			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL ÜN?VERS?TES?	235			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL ÜN?VERS?TES?-CERRAHPA?A	1.047			"% 1,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?STANBUL YEN? YÜZYIL ÜN?VERS?TES?	18			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ST?NYE ÜN?VERS?TES?	216			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R BAKIRÇAY ÜN?VERS?TES?	286			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R DEMOKRAS? ÜN?VERS?TES?	499			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R EKONOM? ÜN?VERS?TES?	437			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R KAT?P ÇELEB? ÜN?VERS?TES?	1.081			"% 1,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R TINAZTEPE ÜN?VERS?TES?	14			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?ZM?R YÜKSEK TEKNOLOJ? ENST?TÜSÜ	618			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAD?R HAS ÜN?VERS?TES?	80			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAFKAS ÜN?VERS?TES?	110			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAHRAMANMARA? ?ST?KLAL ÜN?VERS?TES?	30			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAHRAMANMARA? SÜTÇÜ ?MAM ÜN?VERS?TES?	149			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAPADOKYA ÜN?VERS?TES?	31			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KARABÜK ÜN?VERS?TES?	742			"% 0,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KARADEN?Z TEKN?K ÜN?VERS?TES?	1.577			"% 1,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KARAMANO?LU MEHMETBEY ÜN?VERS?TES?	109			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KASTAMONU ÜN?VERS?TES?	261			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KAYSER? ÜN?VERS?TES?	190			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIBRIS AYDIN ÜN?VERS?TES?	2			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIBRIS SA?LIK VE TOPLUM B?L?MLER? ÜN?VERS?TES?	4			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIRGIZ?STAN-TÜRK?YE MANAS ÜN?VERS?TES?	1			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIRIKKALE ÜN?VERS?TES?	624			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIRKLAREL? ÜN?VERS?TES?	438			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KIR?EH?R AH? EVRAN ÜN?VERS?TES?	130			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									K?L?S 7 ARALIK ÜN?VERS?TES?	22			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KOCAEL? SA?LIK VE TEKNOLOJ? ÜN?VERS?TES?	27			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KOCAEL? ÜN?VERS?TES?	2			"% 2,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KOÇ ÜN?VERS?TES?	542			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KONYA GIDA VE TARIM ÜN?VERS?TES?	5			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KONYA TEKN?K ÜN?VERS?TES?	1.12			"% 1,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KTO KARATAY ÜN?VERS?TES?	99			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KÜTAHYA DUMLUPINAR ÜN?VERS?TES?	954			"% 1,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									KÜTAHYA SA?LIK B?L?MLER? ÜN?VERS?TES?	88			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									LEFKE AVRUPA ÜN?VERS?TES?	17			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									LOKMAN HEK?M ÜN?VERS?TES?	50			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MALATYA TURGUT ÖZAL ÜN?VERS?TES?	60			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MALTEPE ÜN?VERS?TES?	35			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MAN?SA CELÂL BAYAR ÜN?VERS?TES?	1.711			"% 1,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MARD?N ARTUKLU ÜN?VERS?TES?	16			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MARMARA ÜN?VERS?TES?	1.984			"% 2,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MEF ÜN?VERS?TES?	261			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MERS?N ÜN?VERS?TES?	817			"% 0,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									M?MAR S?NAN GÜZEL SANATLAR ÜN?VERS?TES?	41			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MUDANYA ÜN?VERS?TES?	17			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MU?LA SITKI KOÇMAN ÜN?VERS?TES?	435			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MUNZUR ÜN?VERS?TES?	12			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									MU? ALPARSLAN ÜN?VERS?TES?	7			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									NECMETT?N ERBAKAN ÜN?VERS?TES?	1.394			"% 1,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									NEV?EH?R HACI BEKTA? VEL? ÜN?VERS?TES?	104			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									N??DE ÖMER HAL?SDEM?R ÜN?VERS?TES?	256			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									NUH NAC? YAZGAN ÜN?VERS?TES?	4			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ONDOKUZ MAYIS ÜN?VERS?TES?	1.284			"% 1,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ORDU ÜN?VERS?TES?	115			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ORTA DO?U TEKN?K ÜN?VERS?TES?	1.784			"% 2,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									OSMAN?YE KORKUT ATA ÜN?VERS?TES?	67			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									OST?M TEKN?K ÜN?VERS?TES?	424			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÖZYE??N ÜN?VERS?TES?	524			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									PAMUKKALE ÜN?VERS?TES?	1.543			"% 1,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									P?R? RE?S ÜN?VERS?TES?	269			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									RECEP TAYY?P ERDO?AN ÜN?VERS?TES?	153			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SABANCI ÜN?VERS?TES?	172			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SA?LIK B?L?MLER? ÜN?VERS?TES?	166			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SAKARYA UYGULAMALI B?L?MLER ÜN?VERS?TES?	903			"% 1,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SAKARYA ÜN?VERS?TES?	1.611			"% 1,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SAMSUN ÜN?VERS?TES?	794			"% 0,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SANKO ÜN?VERS?TES?	3			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SELÇUK ÜN?VERS?TES?	1.565			"% 1,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									S??RT ÜN?VERS?TES?	29			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									S?NOP ÜN?VERS?TES?	174			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									S?VAS B?L?M VE TEKNOLOJ? ÜN?VERS?TES?	238			"% 0,3"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									S?VAS CUMHUR?YET ÜN?VERS?TES?	417			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									SÜLEYMAN DEM?REL ÜN?VERS?TES?	1.004			"% 1,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									?IRNAK ÜN?VERS?TES?	7			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TARSUS ÜN?VERS?TES?	357			"% 0,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TED ÜN?VERS?TES?	606			"% 0,7"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TEK?RDA? NAMIK KEMAL ÜN?VERS?TES?	731			"% 0,8"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TOBB EKONOM? VE TEKNOLOJ? ÜN?VERS?TES?	552			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TOKAT GAZ?OSMANPA?A ÜN?VERS?TES?	216			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TOROS ÜN?VERS?TES?	6			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TRABZON ÜN?VERS?TES?	47			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TRAKYA ÜN?VERS?TES?	773			"% 0,9"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TÜRK HAVA KURUMU ÜN?VERS?TES?	420			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									TÜRK-ALMAN ÜN?VERS?TES?	505			"% 0,6"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									UFUK ÜN?VERS?TES?	20			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ULUSLARARASI BALKAN ÜN?VERS?TES?	1			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ULUSLARARASI F?NAL ÜN?VERS?TES?	3			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ULUSLARARASI KIBRIS ÜN?VERS?TES?	12			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ULUSLARARASI SARAYBOSNA ÜN?VERS?TES?	13			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									U?AK ÜN?VERS?TES?	437			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ÜSKÜDAR ÜN?VERS?TES?	62			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									VAN YÜZÜNCÜ YIL ÜN?VERS?TES?	80			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YAKIN DO?U ÜN?VERS?TES?	47			"% 0,1"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YALOVA ÜN?VERS?TES?	926			"% 1,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YA?AR ÜN?VERS?TES?	325			"% 0,4"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YED?TEPE ÜN?VERS?TES?	477			"% 0,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YILDIZ TEKN?K ÜN?VERS?TES?	2.286			"% 2,5"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YOZGAT BOZOK ÜN?VERS?TES?	215			"% 0,2"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									YÜKSEK ?HT?SAS ÜN?VERS?TES?	14			"% 0,0"
+13987	Makine Muhendisligi	cmeslek_15	15	Yerle?enlerin Tercih E?ilimleri - Üniversiteler	0																									ZONGULDAK BÜLENT ECEV?T ÜN?VERS?TES?	618			"% 0,7"
